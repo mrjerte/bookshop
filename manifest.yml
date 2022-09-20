@@ -2,6 +2,7 @@
 # appName = bookshop
 # language=nodejs
 # multitenancy=false
+# demo
 ---
 applications:
 # -----------------------------------------------------------------------------------
