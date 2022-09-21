@@ -1,4 +1,4 @@
-ID;title;stock
-1;Wuthering Heights;100
-2;Jane Eyre;500
-3;Janes Eyres;600
+ID;title;stock;country
+1;Wuthering Heights;100;USA
+2;Jane Eyre;500;CAN
+3;Janes Eyres;600;USA
